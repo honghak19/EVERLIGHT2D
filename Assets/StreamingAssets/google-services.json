@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "405779054960",
+    "firebase_url": "https://datt-29e1b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "datt-29e1b",
+    "storage_bucket": "datt-29e1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405779054960:android:5d2fbc9950469ebd5e8fb5",
+        "android_client_info": {
+          "package_name": "com.fptpoly.datt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7jppOb5xRaO3LbTLYTjxkq7wI2rZG67w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
