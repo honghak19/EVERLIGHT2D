@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: af29b25ecc0ed3545a5bfd7328b41e0f
+timeCreated: 1521905144
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117477
+  packageName: 2D Tactics Character Animated
+  packageVersion: 1.2
+  assetPath: Assets/2D Tactics Character Animated/Assets/Scripts/LookAtCamera.cs
+  uploadId: 247503
