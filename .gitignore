@@ -117,6 +117,9 @@ Logs/
 # Others
 .vscode/
 
+<<<<<<< HEAD
 Packages/packages-lock.json
 
+=======
+>>>>>>> b5b8f5b10fa719b29da4d50d88de9e5a72461223
 

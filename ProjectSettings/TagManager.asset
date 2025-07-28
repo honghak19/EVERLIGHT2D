@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Minimap
+  - 
   - Water
   - UI
-  - Player
-  - MinimapOnly
+  - 
+  - 
   - 
   - 
   - 
@@ -40,9 +40,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: MinimapUI
-    uniqueID: 3984735261
     locked: 0
   m_RenderingLayers:
   - Default

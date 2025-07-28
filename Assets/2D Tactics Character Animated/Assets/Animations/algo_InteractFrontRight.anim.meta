@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afc800a86320c4a88938de727c61da4d
+timeCreated: 1524685276
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117477
+  packageName: 2D Tactics Character Animated
+  packageVersion: 1.2
+  assetPath: Assets/2D Tactics Character Animated/Assets/Animations/algo_InteractFrontRight.anim
+  uploadId: 247503
