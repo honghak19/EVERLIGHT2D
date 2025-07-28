@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c816a8dc750f74fa3a6fb9b0551921a1
+timeCreated: 1524685276
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117477
+  packageName: 2D Tactics Character Animated
+  packageVersion: 1.2
+  assetPath: Assets/2D Tactics Character Animated/Assets/Animations/algo_InteractBackLeft.anim
+  uploadId: 247503

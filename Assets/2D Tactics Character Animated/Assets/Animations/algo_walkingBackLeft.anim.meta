@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fc7f4f786c9b443c9d3756d85b4261b
+timeCreated: 1524679222
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117477
+  packageName: 2D Tactics Character Animated
+  packageVersion: 1.2
+  assetPath: Assets/2D Tactics Character Animated/Assets/Animations/algo_walkingBackLeft.anim
+  uploadId: 247503

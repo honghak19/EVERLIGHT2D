@@ -1,0 +1,1247 @@
+fileFormatVersion: 2
+guid: f15d0f056ba6b4041b072658b62ad7f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3448036381072251167
+    second: moose4-attack-only dust effect-347x192_0
+  - first:
+      213: 1825557338884439235
+    second: moose4-attack-only dust effect-347x192_1
+  - first:
+      213: 1338253436697152212
+    second: moose4-attack-only dust effect-347x192_2
+  - first:
+      213: -2391232643819915971
+    second: moose4-attack-only dust effect-347x192_3
+  - first:
+      213: -5858851984805119097
+    second: moose4-attack-only dust effect-347x192_4
+  - first:
+      213: -3511170398482500551
+    second: moose4-attack-only dust effect-347x192_5
+  - first:
+      213: -8503754613213242021
+    second: moose4-attack-only dust effect-347x192_6
+  - first:
+      213: -2148084827274049751
+    second: moose4-attack-only dust effect-347x192_7
+  - first:
+      213: -7417278522534856319
+    second: moose4-attack-only dust effect-347x192_8
+  - first:
+      213: 8577927298861626879
+    second: moose4-attack-only dust effect-347x192_9
+  - first:
+      213: -4283060244384737173
+    second: moose4-attack-only dust effect-347x192_10
+  - first:
+      213: 5738740798424399196
+    second: moose4-attack-only dust effect-347x192_11
+  - first:
+      213: -3228984294576478950
+    second: moose4-attack-only dust effect-347x192_12
+  - first:
+      213: 5943225580416910913
+    second: moose4-attack-only dust effect-347x192_13
+  - first:
+      213: -4987402443257100468
+    second: moose4-attack-only dust effect-347x192_14
+  - first:
+      213: -5330379304716843934
+    second: moose4-attack-only dust effect-347x192_15
+  - first:
+      213: 2458357094166594569
+    second: moose4-attack-only dust effect-347x192_16
+  - first:
+      213: 7801666830017994848
+    second: moose4-attack-only dust effect-347x192_17
+  - first:
+      213: 6932151050480546139
+    second: moose4-attack-only dust effect-347x192_18
+  - first:
+      213: -6858189280233831653
+    second: moose4-attack-only dust effect-347x192_19
+  - first:
+      213: -2475988082951163841
+    second: moose4-attack-only dust effect-347x192_20
+  - first:
+      213: 9031934369325782550
+    second: moose4-attack-only dust effect-347x192_21
+  - first:
+      213: 209779597768021531
+    second: moose4-attack-only dust effect-347x192_22
+  - first:
+      213: 29781135950818969
+    second: moose4-attack-only dust effect-347x192_23
+  - first:
+      213: 1127705207535855088
+    second: moose4-attack-only dust effect-347x192_24
+  - first:
+      213: 680328842338068666
+    second: moose4-attack-only dust effect-347x192_25
+  - first:
+      213: -6892971264500960496
+    second: moose4-attack-only dust effect-347x192_26
+  - first:
+      213: -2599198235529990986
+    second: moose4-attack-only dust effect-347x192_27
+  - first:
+      213: 4173217505834922035
+    second: moose4-attack-only dust effect-347x192_28
+  - first:
+      213: 1374223552944362998
+    second: moose4-attack-only dust effect-347x192_29
+  - first:
+      213: 3012627074474806529
+    second: moose4-attack-only dust effect-347x192_30
+  - first:
+      213: -1576438835427483550
+    second: moose4-attack-only dust effect-347x192_31
+  - first:
+      213: 7483849093225567654
+    second: moose4-attack-only dust effect-347x192_32
+  - first:
+      213: -6159189690974821302
+    second: moose4-attack-only dust effect-347x192_33
+  - first:
+      213: -7954574306352929902
+    second: moose4-attack-only dust effect-347x192_34
+  - first:
+      213: 4558164127897632370
+    second: moose4-attack-only dust effect-347x192_35
+  - first:
+      213: 7555310816559015101
+    second: moose4-attack-only dust effect-347x192_36
+  - first:
+      213: 7567737107347564850
+    second: moose4-attack-only dust effect-347x192_37
+  - first:
+      213: -1393230144398133080
+    second: moose4-attack-only dust effect-347x192_38
+  - first:
+      213: -9102605464553562381
+    second: moose4-attack-only dust effect-347x192_39
+  - first:
+      213: -3351881510160955598
+    second: moose4-attack-only dust effect-347x192_40
+  - first:
+      213: 4736036538340267
+    second: moose4-attack-only dust effect-347x192_41
+  - first:
+      213: 2395921143676522128
+    second: moose4-attack-only dust effect-347x192_42
+  - first:
+      213: -5937579258774090088
+    second: moose4-attack-only dust effect-347x192_43
+  - first:
+      213: -5794406913532091432
+    second: moose4-attack-only dust effect-347x192_44
+  - first:
+      213: 1576053968359073432
+    second: moose4-attack-only dust effect-347x192_45
+  - first:
+      213: 4742040437752425316
+    second: moose4-attack-only dust effect-347x192_46
+  - first:
+      213: -5538193623813174404
+    second: moose4-attack-only dust effect-347x192_47
+  - first:
+      213: 8987848560346173813
+    second: moose4-attack-only dust effect-347x192_48
+  - first:
+      213: 8668684233626348597
+    second: moose4-attack-only dust effect-347x192_49
+  - first:
+      213: -6639305265010999664
+    second: moose4-attack-only dust effect-347x192_50
+  - first:
+      213: 5143856278033656020
+    second: moose4-attack-only dust effect-347x192_51
+  - first:
+      213: 560227899492058111
+    second: moose4-attack-only dust effect-347x192_52
+  - first:
+      213: 1897828726868201704
+    second: moose4-attack-only dust effect-347x192_53
+  - first:
+      213: 4092894806964016018
+    second: moose4-attack-only dust effect-347x192_54
+  - first:
+      213: -6488494007151514698
+    second: moose4-attack-only dust effect-347x192_55
+  - first:
+      213: -6765161750947117136
+    second: moose4-attack-only dust effect-347x192_56
+  - first:
+      213: 7133894135285985859
+    second: moose4-attack-only dust effect-347x192_57
+  - first:
+      213: 9197573433590202032
+    second: moose4-attack-only dust effect-347x192_58
+  - first:
+      213: -2590441607865921913
+    second: moose4-attack-only dust effect-347x192_59
+  - first:
+      213: 8649737584487599508
+    second: moose4-attack-only dust effect-347x192_60
+  - first:
+      213: -6827051740423970263
+    second: moose4-attack-only dust effect-347x192_61
+  - first:
+      213: 8071997010870199415
+    second: moose4-attack-only dust effect-347x192_62
+  - first:
+      213: 8129031775729297288
+    second: moose4-attack-only dust effect-347x192_63
+  - first:
+      213: 5811434272220710283
+    second: moose4-attack-only dust effect-347x192_64
+  - first:
+      213: -19666385816325817
+    second: moose4-attack-only dust effect-347x192_65
+  - first:
+      213: -3582806188416597948
+    second: moose4-attack-only dust effect-347x192_66
+  - first:
+      213: -2270193463002115879
+    second: moose4-attack-only dust effect-347x192_67
+  - first:
+      213: -2977110284347335923
+    second: moose4-attack-only dust effect-347x192_68
+  - first:
+      213: 4504023401753520703
+    second: moose4-attack-only dust effect-347x192_69
+  - first:
+      213: -3565126941289794940
+    second: moose4-attack-only dust effect-347x192_70
+  - first:
+      213: 7060826814244980653
+    second: moose4-attack-only dust effect-347x192_71
+  - first:
+      213: 3547160595250300857
+    second: moose4-attack-only dust effect-347x192_72
+  - first:
+      213: -4785706981223930221
+    second: moose4-attack-only dust effect-347x192_73
+  - first:
+      213: -4149912336161077729
+    second: moose4-attack-only dust effect-347x192_74
+  - first:
+      213: -8020044054513946927
+    second: moose4-attack-only dust effect-347x192_75
+  - first:
+      213: -7029215602244370632
+    second: moose4-attack-only dust effect-347x192_76
+  - first:
+      213: -2085939376270675567
+    second: moose4-attack-only dust effect-347x192_77
+  - first:
+      213: 8661636495148956483
+    second: moose4-attack-only dust effect-347x192_78
+  - first:
+      213: -3110420558940312840
+    second: moose4-attack-only dust effect-347x192_79
+  - first:
+      213: -2121381545542803210
+    second: moose4-attack-only dust effect-347x192_80
+  - first:
+      213: -6074147522994312901
+    second: moose4-attack-only dust effect-347x192_81
+  - first:
+      213: -9086310856563833838
+    second: moose4-attack-only dust effect-347x192_82
+  - first:
+      213: -7893674975563860074
+    second: moose4-attack-only dust effect-347x192_83
+  - first:
+      213: -9029982214054950562
+    second: moose4-attack-only dust effect-347x192_84
+  - first:
+      213: 5338221654777000752
+    second: moose4-attack-only dust effect-347x192_85
+  - first:
+      213: -6991697835793584844
+    second: moose4-attack-only dust effect-347x192_86
+  - first:
+      213: 5332666522366887168
+    second: moose4-attack-only dust effect-347x192_87
+  - first:
+      213: -5035686224515224108
+    second: moose4-attack-only dust effect-347x192_88
+  - first:
+      213: -7699073933427123585
+    second: moose4-attack-only dust effect-347x192_89
+  - first:
+      213: -1214018025112171966
+    second: moose4-attack-only dust effect-347x192_90
+  - first:
+      213: -8167806091612552823
+    second: moose4-attack-only dust effect-347x192_91
+  - first:
+      213: -1700800261140724278
+    second: moose4-attack-only dust effect-347x192_92
+  - first:
+      213: 9007041734208964682
+    second: moose4-attack-only dust effect-347x192_93
+  - first:
+      213: -9173952656837277232
+    second: moose4-attack-only dust effect-347x192_94
+  - first:
+      213: -6448823651857668560
+    second: moose4-attack-only dust effect-347x192_95
+  - first:
+      213: -8529210136704978664
+    second: moose4-attack-only dust effect-347x192_96
+  - first:
+      213: -6061769959203578830
+    second: moose4-attack-only dust effect-347x192_97
+  - first:
+      213: -2107730184912904035
+    second: moose4-attack-only dust effect-347x192_98
+  - first:
+      213: 6448408011614218840
+    second: moose4-attack-only dust effect-347x192_99
+  - first:
+      213: -4169675630186845144
+    second: moose4-attack-only dust effect-347x192_100
+  - first:
+      213: -6144890673447684854
+    second: moose4-attack-only dust effect-347x192_101
+  - first:
+      213: 1267260422478648973
+    second: moose4-attack-only dust effect-347x192_102
+  - first:
+      213: 5530412738018153138
+    second: moose4-attack-only dust effect-347x192_103
+  - first:
+      213: -3085907341687982041
+    second: moose4-attack-only dust effect-347x192_104
+  - first:
+      213: -5341966019451858500
+    second: moose4-attack-only dust effect-347x192_105
+  - first:
+      213: -3437425073274290494
+    second: moose4-attack-only dust effect-347x192_106
+  - first:
+      213: 6638370279558096262
+    second: moose4-attack-only dust effect-347x192_107
+  - first:
+      213: 4685389667871319190
+    second: moose4-attack-only dust effect-347x192_108
+  - first:
+      213: 8249456748064628667
+    second: moose4-attack-only dust effect-347x192_109
+  - first:
+      213: 2516603986678051757
+    second: moose4-attack-only dust effect-347x192_110
+  - first:
+      213: 7049097233352184599
+    second: moose4-attack-only dust effect-347x192_111
+  - first:
+      213: 3391127411005804784
+    second: moose4-attack-only dust effect-347x192_112
+  - first:
+      213: -6217338929350820017
+    second: moose4-attack-only dust effect-347x192_113
+  - first:
+      213: 8552443885204369233
+    second: moose4-attack-only dust effect-347x192_114
+  - first:
+      213: -2292949956906584594
+    second: moose4-attack-only dust effect-347x192_115
+  - first:
+      213: -7467650199489621111
+    second: moose4-attack-only dust effect-347x192_116
+  - first:
+      213: 4729840696460203150
+    second: moose4-attack-only dust effect-347x192_117
+  - first:
+      213: 6387633205557004923
+    second: moose4-attack-only dust effect-347x192_118
+  - first:
+      213: -763400772111023475
+    second: moose4-attack-only dust effect-347x192_119
+  - first:
+      213: 5875650905470242086
+    second: moose4-attack-only dust effect-347x192_120
+  - first:
+      213: -5037695160060308466
+    second: moose4-attack-only dust effect-347x192_121
+  - first:
+      213: 342661433916946622
+    second: moose4-attack-only dust effect-347x192_122
+  - first:
+      213: -530344393208466150
+    second: moose4-attack-only dust effect-347x192_123
+  - first:
+      213: -6234384595342502912
+    second: moose4-attack-only dust effect-347x192_124
+  - first:
+      213: 4745606049596053485
+    second: moose4-attack-only dust effect-347x192_125
+  - first:
+      213: -1068548361361609932
+    second: moose4-attack-only dust effect-347x192_126
+  - first:
+      213: -590553837395073322
+    second: moose4-attack-only dust effect-347x192_127
+  - first:
+      213: 1665863072375175107
+    second: moose4-attack-only dust effect-347x192_128
+  - first:
+      213: 2515430703323325618
+    second: moose4-attack-only dust effect-347x192_129
+  - first:
+      213: 8015532899881611715
+    second: moose4-attack-only dust effect-347x192_130
+  - first:
+      213: 2307591438891067457
+    second: moose4-attack-only dust effect-347x192_131
+  - first:
+      213: 5952999805191221554
+    second: moose4-attack-only dust effect-347x192_132
+  - first:
+      213: 5571182059727304492
+    second: moose4-attack-only dust effect-347x192_133
+  - first:
+      213: -5402962426818823173
+    second: moose4-attack-only dust effect-347x192_134
+  - first:
+      213: 8592096906883383378
+    second: moose4-attack-only dust effect-347x192_135
+  - first:
+      213: 3219061731946949966
+    second: moose4-attack-only dust effect-347x192_136
+  - first:
+      213: 2017747944730233945
+    second: moose4-attack-only dust effect-347x192_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6a09d0e2d1620d0800000000000000
+      internalID: -3448036381072251167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc705d3abea55910800000000000000
+      internalID: 1825557338884439235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da87c9096e629210800000000000000
+      internalID: 1338253436697152212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_3
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35bbc96492a0ded0800000000000000
+      internalID: -2391232643819915971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_4
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b391e492d21bea0800000000000000
+      internalID: -5858851984805119097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93475942021d54fc0800000000000000
+      internalID: -3511170398482500551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_6
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dd55eeb389cf980800000000000000
+      internalID: -8503754613213242021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_7
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9278cea0b387032e0800000000000000
+      internalID: -2148084827274049751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_8
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189fc207b78801990800000000000000
+      internalID: -7417278522534856319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_9
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5f5c53e6bea0770800000000000000
+      internalID: 8577927298861626879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_10
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6899dd76638f84c0800000000000000
+      internalID: -4283060244384737173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_11
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5db02cd95a14af40800000000000000
+      internalID: 5738740798424399196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_12
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15247854e75033d0800000000000000
+      internalID: -3228984294576478950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_13
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146c3c44d249a7250800000000000000
+      internalID: 5943225580416910913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_14
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ceb9f6ef29cab0800000000000000
+      internalID: -4987402443257100468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_15
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26442409340b606b0800000000000000
+      internalID: -5330379304716843934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_16
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9048cd090c6dd1220800000000000000
+      internalID: 2458357094166594569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_17
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060ab2b95a6154c60800000000000000
+      internalID: 7801666830017994848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_18
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b517e3df6a2f33060800000000000000
+      internalID: 6932151050480546139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_19
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1345459f21d2d0a0800000000000000
+      internalID: -6858189280233831653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_20
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307897f4f583add0800000000000000
+      internalID: -2475988082951163841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_21
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6161e46a470e75d70800000000000000
+      internalID: 9031934369325782550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_22
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b165616ce6949e200800000000000000
+      internalID: 209779597768021531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_23
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e2b5d09cdc96000800000000000000
+      internalID: 29781135950818969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_24
+      rect:
+        serializedVersion: 2
+        x: 8328
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5688259e966af00800000000000000
+      internalID: 1127705207535855088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_25
+      rect:
+        serializedVersion: 2
+        x: 8675
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab863024a73017900800000000000000
+      internalID: 680328842338068666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_26
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f17cc72f3750a0800000000000000
+      internalID: -6892971264500960496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_27
+      rect:
+        serializedVersion: 2
+        x: 9369
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bca966d9facdebd0800000000000000
+      internalID: -2599198235529990986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_28
+      rect:
+        serializedVersion: 2
+        x: 9716
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3307bbdf53f3ae930800000000000000
+      internalID: 4173217505834922035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moose4-attack-only dust effect-347x192_29
+      rect:
+        serializedVersion: 2
+        x: 10063
+        y: 43
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5593b5a09321310800000000000000
+      internalID: 1374223552944362998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d87bb9d27614a3b4e88d7f6b7f51e81c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      moose4-attack-only dust effect-347x192_0: -3448036381072251167
+      moose4-attack-only dust effect-347x192_1: 1825557338884439235
+      moose4-attack-only dust effect-347x192_10: -4283060244384737173
+      moose4-attack-only dust effect-347x192_11: 5738740798424399196
+      moose4-attack-only dust effect-347x192_12: -3228984294576478950
+      moose4-attack-only dust effect-347x192_13: 5943225580416910913
+      moose4-attack-only dust effect-347x192_14: -4987402443257100468
+      moose4-attack-only dust effect-347x192_15: -5330379304716843934
+      moose4-attack-only dust effect-347x192_16: 2458357094166594569
+      moose4-attack-only dust effect-347x192_17: 7801666830017994848
+      moose4-attack-only dust effect-347x192_18: 6932151050480546139
+      moose4-attack-only dust effect-347x192_19: -6858189280233831653
+      moose4-attack-only dust effect-347x192_2: 1338253436697152212
+      moose4-attack-only dust effect-347x192_20: -2475988082951163841
+      moose4-attack-only dust effect-347x192_21: 9031934369325782550
+      moose4-attack-only dust effect-347x192_22: 209779597768021531
+      moose4-attack-only dust effect-347x192_23: 29781135950818969
+      moose4-attack-only dust effect-347x192_24: 1127705207535855088
+      moose4-attack-only dust effect-347x192_25: 680328842338068666
+      moose4-attack-only dust effect-347x192_26: -6892971264500960496
+      moose4-attack-only dust effect-347x192_27: -2599198235529990986
+      moose4-attack-only dust effect-347x192_28: 4173217505834922035
+      moose4-attack-only dust effect-347x192_29: 1374223552944362998
+      moose4-attack-only dust effect-347x192_3: -2391232643819915971
+      moose4-attack-only dust effect-347x192_4: -5858851984805119097
+      moose4-attack-only dust effect-347x192_5: -3511170398482500551
+      moose4-attack-only dust effect-347x192_6: -8503754613213242021
+      moose4-attack-only dust effect-347x192_7: -2148084827274049751
+      moose4-attack-only dust effect-347x192_8: -7417278522534856319
+      moose4-attack-only dust effect-347x192_9: 8577927298861626879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

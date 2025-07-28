@@ -97,3 +97,23 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Ignore JetBrains Rider / IntelliJ IDEA settings
+.idea/
+
+# Ignore Unity-generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+
+# Ignore Visual Studio files
+*.csproj
+*.sln
+*.user
+
+# Others
+.vscode/
+
