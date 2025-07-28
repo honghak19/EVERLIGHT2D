@@ -3,16 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - Enemy
+>>>>>>> fcf98d5 (lan dau day du lieu)
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
   - Minimap
   - Water
   - UI
   - Player
   - MinimapOnly
+=======
+  - PlayerAttack
+  - Water
+  - UI
+  - 
+  - 
+>>>>>>> fcf98d5 (lan dau day du lieu)
   - 
   - 
   - 
@@ -41,8 +54,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: MinimapUI
     uniqueID: 3984735261
     locked: 0
+=======
+>>>>>>> fcf98d5 (lan dau day du lieu)
   m_RenderingLayers:
   - Default

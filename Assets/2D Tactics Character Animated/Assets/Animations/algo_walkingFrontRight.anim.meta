@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5fe3ef7660e646bcae18fdf4cf29644
+timeCreated: 1524679222
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117477
+  packageName: 2D Tactics Character Animated
+  packageVersion: 1.2
+  assetPath: Assets/2D Tactics Character Animated/Assets/Animations/algo_walkingFrontRight.anim
+  uploadId: 247503

@@ -3,7 +3,11 @@
 --- !u!159 &1
 EditorSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 13
+=======
+  serializedVersion: 14
+>>>>>>> fcf98d5 (lan dau day du lieu)
   m_SerializationMode: 2
   m_LineEndingsForNewScripts: 0
   m_DefaultBehaviorMode: 1
@@ -33,6 +37,10 @@ EditorSettings:
   m_UseLegacyProbeSampleCount: 0
   m_SerializeInlineMappingsOnOneLine: 1
   m_DisableCookiesInLightmapper: 1
+<<<<<<< HEAD
+=======
+  m_ShadowmaskStitching: 0
+>>>>>>> fcf98d5 (lan dau day du lieu)
   m_AssetPipelineMode: 1
   m_RefreshImportMode: 0
   m_CacheServerMode: 0
