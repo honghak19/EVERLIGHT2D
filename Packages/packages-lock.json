@@ -14,11 +14,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.aseprite": {
-<<<<<<< HEAD
-      "version": "1.1.7",
-=======
-      "version": "1.1.8",
->>>>>>> fcf98d5 (lan dau day du lieu)
+      "version": "1.1.9",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -96,7 +92,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
     "com.unity.ai.navigation": {
       "version": "2.0.8",
       "depth": 0,
@@ -107,11 +102,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.18",
-=======
-    "com.unity.burst": {
       "version": "1.8.19",
->>>>>>> fcf98d5 (lan dau day du lieu)
       "depth": 2,
       "source": "registry",
       "dependencies": {
@@ -120,7 +111,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
     "com.unity.cinemachine": {
       "version": "3.1.4",
       "depth": 0,
@@ -131,8 +121,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> fcf98d5 (lan dau day du lieu)
     "com.unity.collab-proxy": {
       "version": "2.8.2",
       "depth": 0,
@@ -155,14 +143,8 @@
     "com.unity.ext.nunit": {
       "version": "2.0.5",
       "depth": 1,
-<<<<<<< HEAD
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-=======
       "source": "builtin",
       "dependencies": {}
->>>>>>> fcf98d5 (lan dau day du lieu)
     },
     "com.unity.feature.2d": {
       "version": "2.0.1",
@@ -176,19 +158,11 @@
         "com.unity.2d.spriteshape": "10.0.7",
         "com.unity.2d.tilemap": "1.0.0",
         "com.unity.2d.tilemap.extras": "4.1.0",
-<<<<<<< HEAD
-        "com.unity.2d.aseprite": "1.1.7"
+        "com.unity.2d.aseprite": "1.1.9"
       }
     },
     "com.unity.ide.rider": {
       "version": "3.0.36",
-=======
-        "com.unity.2d.aseprite": "1.1.8"
-      }
-    },
-    "com.unity.ide.rider": {
-      "version": "3.0.31",
->>>>>>> fcf98d5 (lan dau day du lieu)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -206,11 +180,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-<<<<<<< HEAD
-      "version": "1.11.2",
-=======
       "version": "1.14.0",
->>>>>>> fcf98d5 (lan dau day du lieu)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -241,11 +211,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-<<<<<<< HEAD
-      "version": "17.0.3",
-=======
       "version": "17.0.4",
->>>>>>> fcf98d5 (lan dau day du lieu)
       "depth": 1,
       "source": "builtin",
       "dependencies": {
@@ -260,21 +226,12 @@
       }
     },
     "com.unity.render-pipelines.universal": {
-<<<<<<< HEAD
-      "version": "17.0.3",
-      "depth": 0,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.render-pipelines.core": "17.0.3",
-        "com.unity.shadergraph": "17.0.3",
-=======
       "version": "17.0.4",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "17.0.4",
         "com.unity.shadergraph": "17.0.4",
->>>>>>> fcf98d5 (lan dau day du lieu)
         "com.unity.render-pipelines.universal-config": "17.0.3"
       }
     },
@@ -297,8 +254,7 @@
       }
     },
     "com.unity.searcher": {
-<<<<<<< HEAD
-      "version": "4.9.2",
+      "version": "4.9.3",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
@@ -306,39 +262,12 @@
     },
     "com.unity.settings-manager": {
       "version": "2.0.1",
-=======
-      "version": "4.9.3",
->>>>>>> fcf98d5 (lan dau day du lieu)
       "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-<<<<<<< HEAD
-      "version": "17.0.3",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.render-pipelines.core": "17.0.3",
-        "com.unity.searcher": "4.9.2"
-      }
-    },
-    "com.unity.splines": {
-      "version": "2.7.2",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.mathematics": "1.2.1",
-        "com.unity.settings-manager": "1.0.3"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.test-framework": {
-      "version": "1.4.5",
-      "depth": 0,
-      "source": "registry",
-=======
       "version": "17.0.4",
       "depth": 1,
       "source": "builtin",
@@ -347,21 +276,26 @@
         "com.unity.searcher": "4.9.3"
       }
     },
+    "com.unity.splines": {
+      "version": "2.8.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.settings-manager": "1.0.3"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.test-framework": {
       "version": "1.5.1",
       "depth": 0,
       "source": "builtin",
->>>>>>> fcf98d5 (lan dau day du lieu)
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
-<<<<<<< HEAD
-      },
-      "url": "https://packages.unity.com"
-=======
       }
->>>>>>> fcf98d5 (lan dau day du lieu)
     },
     "com.unity.test-framework.performance": {
       "version": "3.0.3",
@@ -395,11 +329,7 @@
       }
     },
     "com.unity.visualscripting": {
-<<<<<<< HEAD
-      "version": "1.9.5",
-=======
       "version": "1.9.6",
->>>>>>> fcf98d5 (lan dau day du lieu)
       "depth": 0,
       "source": "registry",
       "dependencies": {
